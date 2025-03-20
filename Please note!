@@ -5,23 +5,23 @@ Legal Disclaimer
 This project is intended for educational and research purposes only. 
 It should not be used for actual financial trading, investment decisions, or any commercial purposes.
 
-•	No Financial Advice: The predictions, analyses, and recommendations provided by this software do not constitute financial advice. 
+1.No Financial Advice: The predictions, analyses, and recommendations provided by this software do not constitute financial advice. 
 The results generated are purely algorithmic and may not accurately reflect market conditions. 
 Always consult a qualified financial professional before making any investment decisions.
 
-•	No Guarantees or Warranties: The software is provided “as is,” without any express or implied warranties of accuracy, reliability, or suitability for any purpose. 
+2.No Guarantees or Warranties: The software is provided “as is,” without any express or implied warranties of accuracy, reliability, or suitability for any purpose. 
 The authors and contributors make no representations about the completeness, reliability, or accuracy of the data, predictions, or insights provided.
 
-•	Market Risks: Stock and commodity prices are highly volatile and influenced by various unpredictable factors, 
+3.Market Risks: Stock and commodity prices are highly volatile and influenced by various unpredictable factors, 
 including economic events, global policies, and external market conditions. 
 The model does not account for all possible variables and should not be relied upon for real-world trading.
 
-•	Limitation of Liability: Under no circumstances shall the author(s), contributors, or affiliated parties be held responsible or liable for any direct, 
+4.Limitation of Liability: Under no circumstances shall the author(s), contributors, or affiliated parties be held responsible or liable for any direct, 
 indirect, incidental, consequential, or special damages, including but not limited to financial losses, lost profits, or trading losses arising from the use of this software.
 
-•	API Data Disclaimer: This project retrieves stock market data from Yahoo Finance via the yfinance library. 
+5.API Data Disclaimer: This project retrieves stock market data from Yahoo Finance via the yfinance library. 
 Yahoo Finance does not guarantee the accuracy or availability of the data, and its terms of use must be followed. 
 The software does not bypass, scrape, or violate any API usage policies.
 
-•	No Endorsement: This project is not affiliated with, endorsed by, or associated with Yahoo Finance, Apple Inc., or any financial institution. 
+6.No Endorsement: This project is not affiliated with, endorsed by, or associated with Yahoo Finance, Apple Inc., or any financial institution. 
 Use of external APIs must comply with their respective terms and conditions.

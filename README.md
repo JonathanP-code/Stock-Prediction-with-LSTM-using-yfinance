@@ -6,6 +6,12 @@ This repository contains two machine learning models that predict future prices 
 ## Overview
 This project uses a Long Short-Term Memory (LSTM) neural network to predict gold prices based on historical market data retrieved from Yahoo Finance via the `yfinance` library.
 
+<a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"></a>
+<a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"></a>
+<a href="https://pypi.org/project/yfinance/"><img alt="yfinance" src="https://img.shields.io/badge/yfinance-003366.svg?logo=python&logoColor=white"></a>
+<a href="https://matplotlib.org/"><img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-11557C.svg?logo=python&logoColor=white"></a>
+<a href="https://pandas.pydata.org/"><img alt="pandas" src="https://img.shields.io/badge/pandas-150458.svg?logo=pandas&logoColor=white"></a>
+
 ## Features
 - Fetches real-time gold price data using Yahoo Finance (`yfinance`).
 - Preprocesses and normalizes data for training.

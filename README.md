@@ -14,7 +14,7 @@ This project uses a Long Short-Term Memory (LSTM) neural network to predict gold
 <a href="https://pandas.pydata.org/"><img alt="pandas" src="https://img.shields.io/badge/pandas-150458.svg?logo=pandas&logoColor=white"></a>
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
 
-## Features
+### Features
 - Fetches real-time gold price data using Yahoo Finance (`yfinance`).
 - Preprocesses and normalizes data for training.
 - Uses an LSTM neural network for time series forecasting.
@@ -22,33 +22,32 @@ This project uses a Long Short-Term Memory (LSTM) neural network to predict gold
 - Provides a simple buy/sell/hold recommendation based on predicted vs. actual price.
 - Visualizes past price trends and future predictions.
 
-## Installation
+### Installation
 ```bash
 pip install numpy pandas matplotlib tensorflow scikit-learn yfinance
 ```
 
-## Usage
+### Usage
 ```python
 python gold_price_prediction.py
 ```
 
-## Data Source and Attribution
+### Data Source and Attribution
 This project retrieves data from **Yahoo Finance** via the `yfinance` Python package.
 - **Source:** Yahoo Finance (https://finance.yahoo.com/)
 - **Attribution Policy:** Data is provided by Yahoo Finance and must be credited accordingly.
 - **Disclaimer:** Yahoo Finance provides the data "as is" with no guarantees on accuracy or availability.
 - **Usage Limits**: Be mindful of Yahoo Finance's rate limits to avoid access issues.
 
+---
 
-## 🚨 Legal Disclaimer
+> [!NOTE]
 > This project is **for educational and research purposes only**.
-> 
 > The predictions and recommendations made by this model **do not constitute financial advice**.
-> 
 > The author and contributors **are not responsible for any financial decisions** made based on this software. 
 
 
-## Code
+### Code
 
 ```python code
 import numpy as np
@@ -158,40 +157,39 @@ Last Gold Price: 3007.30𝑃𝑟𝑒𝑑𝑖𝑐𝑡𝑒𝑑𝑁𝑒𝑥𝑡𝐷
 ## Overview
 This project uses a Long Short-Term Memory (LSTM) neural network to predict Apple Inc. (AAPL) stock prices based on historical data. The model is trained using Yahoo Finance data and generates predictions for the next 10 days. 
 
-## Features
+### Features
 - **Stock Price Prediction**: Uses past 60 days of stock prices to predict future prices.
 - **LSTM Neural Network**: Built using TensorFlow/Keras for time-series forecasting.
 - **Data Source**: Yahoo Finance API (yfinance).
 - **Visualization**: Matplotlib for plotting past and predicted stock prices.
 - **Buy/Sell Recommendation**: Generates trading suggestions based on predicted prices.
 
-## Installation
+### Installation
 ```sh
 pip install numpy pandas matplotlib tensorflow scikit-learn yfinance requests textblob
 ```
 
-## Usage
+### Usage
 Run the script to fetch stock data, train the LSTM model, and generate predictions:
 ```sh
 python stock_prediction.py
 ```
 
-## Data Source and Attribution
+### Data Source and Attribution
 This project retrieves data from **Yahoo Finance** via the `yfinance` Python package.
 - **Source:** Yahoo Finance (https://finance.yahoo.com/)
 - **Attribution Policy:** Data is provided by Yahoo Finance and must be credited accordingly.
 - **Disclaimer:** Yahoo Finance provides the data "as is" with no guarantees on accuracy or availability.
 - **Usage Limits**: Be mindful of Yahoo Finance's rate limits to avoid access issues.
 
+---
 
-## 🚨 Legal Disclaimer
+> [!NOTE]
 > This project is **for educational and research purposes only**.
-> 
-> The predictions and recommendations made by this model **do not constitute financial advice**.
-> 
+> The predictions and recommendations made by this model **do not constitute financial advice**. 
 > The author and contributors **are not responsible for any financial decisions** made based on this software. 
 
-## Code
+### Code
 
 ```python code
 import numpy as np

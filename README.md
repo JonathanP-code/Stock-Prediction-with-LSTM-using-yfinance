@@ -1,5 +1,6 @@
 # Stock-Prediction-with-LSTM-using-yfinance
-This repository contains two machine learning models that predict future prices for Gold and Apple (AAPL) stocks using LSTM neural networks. The models fetch historical price data from Yahoo Finance, preprocess the data, and generate predictions with buy/sell recommendations.
+This repository contains two machine learning models that predict future prices for Gold and Apple (AAPL) stocks using LSTM neural networks. The models fetch historical price data from Yahoo Finance, preprocess the data, and generate predictions with buy/sell recommendations. 
+Please feel free to recommend or add improvements to this project. 
 
 # Gold Price Prediction using LSTM
 
@@ -11,6 +12,7 @@ This project uses a Long Short-Term Memory (LSTM) neural network to predict gold
 <a href="https://pypi.org/project/yfinance/"><img alt="yfinance" src="https://img.shields.io/badge/yfinance-003366.svg?logo=python&logoColor=white"></a>
 <a href="https://matplotlib.org/"><img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-11557C.svg?logo=python&logoColor=white"></a>
 <a href="https://pandas.pydata.org/"><img alt="pandas" src="https://img.shields.io/badge/pandas-150458.svg?logo=pandas&logoColor=white"></a>
+<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
 
 ## Features
 - Fetches real-time gold price data using Yahoo Finance (`yfinance`).

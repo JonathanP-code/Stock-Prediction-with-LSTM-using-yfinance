@@ -37,10 +37,11 @@ This project retrieves data from **Yahoo Finance** via the `yfinance` Python pac
 
 ---
 
-> [!NOTE]
+> [!CAUTION]
 > This project is **for educational and research purposes only**.
 > The predictions and recommendations made by this model **do not constitute financial advice**.
-> The author and contributors **are not responsible for any financial decisions** made based on this software. 
+> The author and contributors **are not responsible for any financial decisions** made based on this software.
+> Please also view the **Please Note!** file.
 
 
 ### Example Code

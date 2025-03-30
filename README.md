@@ -43,6 +43,9 @@ This project retrieves data from **Yahoo Finance** via the `yfinance` Python pac
 > The author and contributors **are not responsible for any financial decisions** made based on this software.
 > Please also view the **Please Note!** file.
 
+> [!IMPORTANT]
+> To make the code below functional you will need to replace "STOCK" and "YOURSTOCK" with your actual stock name.
+> You may want to take a look at the finished example files given above.
 
 ### Example Code
 

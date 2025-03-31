@@ -20,6 +20,9 @@ This project uses a Long Short-Term Memory (LSTM) neural network to predict pric
 - Provides a simple buy/sell/hold recommendation based on predicted vs. actual price.
 - Visualizes past price trends and future predictions.
 
+> [!NOTE]
+> Working on a better model with more variables and aspects!
+
 ### Installation/ Usage
 ```bash
 pip install numpy pandas matplotlib tensorflow scikit-learn yfinance
